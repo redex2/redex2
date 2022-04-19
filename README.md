@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **redex2/redex2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://hit.yhype.me/github/profile?user_id=66275387)
