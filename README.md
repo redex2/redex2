@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://counter.redex2.dev/)
+![](https://counter.redex2.dev/?)
 <!--
 **redex2/redex2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
